@@ -1,0 +1,8 @@
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.DataEntity\obj\Debug\Fic.DataEntity.csprojResolveAssemblyReference.cache
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.DataEntity\bin\Debug\Fic.DataEntity.dll.config
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.DataEntity\bin\Debug\Fic.DataEntity.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.DataEntity\bin\Debug\Fic.DataEntity.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.DataEntity\obj\Debug\Fic.DataEntity.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.DataEntity\obj\Debug\Fic.DataEntity.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.DataEntity\bin\Debug\Fic.Core.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.DataEntity\bin\Debug\Fic.Core.pdb

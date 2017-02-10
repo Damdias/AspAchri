@@ -1,0 +1,16 @@
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\Fic.Context.dll.config
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\Fic.Context.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\Fic.Context.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\EntityFramework.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\EntityFramework.SqlServer.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\Fic.Core.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\Fic.DataEntity.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\Fic.Core.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\Fic.DataEntity.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\EntityFramework.xml
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\bin\Debug\EntityFramework.SqlServer.xml
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\obj\Debug\Fic.Context.csprojResolveAssemblyReference.cache
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\obj\Debug\Fic.Context.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\obj\Debug\Fic.Context.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\obj\Debug\Fic.Context.Migrations.Initial.resources
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Context\obj\Debug\Fic.Context.csproj.GenerateResource.Cache

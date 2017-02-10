@@ -1,0 +1,11 @@
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\bin\Debug\Fic.Repository.Imp.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\bin\Debug\Fic.Repository.Imp.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\bin\Debug\Fic.Core.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\bin\Debug\Fic.Repository.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\bin\Debug\Fic.Core.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\bin\Debug\Fic.Repository.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\obj\Debug\Fic.Repository.Imp.csprojResolveAssemblyReference.cache
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\obj\Debug\Fic.Repository.Imp.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\obj\Debug\Fic.Repository.Imp.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\bin\Debug\Fic.DataEntity.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Repository.Imp\bin\Debug\Fic.DataEntity.pdb

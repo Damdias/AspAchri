@@ -1,0 +1,5 @@
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Core\bin\Debug\Fic.Core.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Core\bin\Debug\Fic.Core.pdb
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Core\obj\Debug\Fic.Core.csprojResolveAssemblyReference.cache
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Core\obj\Debug\Fic.Core.dll
+F:\My Work\Projects\ApplicationArchitecture\RepositoryMulti\Fic.Core\obj\Debug\Fic.Core.pdb
